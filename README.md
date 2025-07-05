@@ -10,4 +10,4 @@ Feel free to play, explore, modify, or use the code however you want!
 No license required — do whatever you want with the code.  
 Use it, remix it, break it, fix it. Just have fun!
 
-i know its shitty but its mine
+i know its shitty but its mine :)
