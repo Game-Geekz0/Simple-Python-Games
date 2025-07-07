@@ -1,0 +1,2 @@
+nuitka --onefile wordle.py
+
