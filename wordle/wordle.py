@@ -255,7 +255,7 @@ while True:
         for line in lines:
             print(line)  
         again = input ("would you like to play again? [Y/N]: ")
-        if again in ["Yes", "YES", "Y", "y", "ye", "Ye", "yes"]:
+        if again in ["Yes", "YES", "Y", "y", "ye", "Ye", "yes", "[Y]", "[y]"]:
             RESET = True
             os.system('cls' if os.name == 'nt' else 'clear')
             
